@@ -68,13 +68,6 @@
   .grid {
     max-width: 1140px;
   }
-  .feed_back-grid {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 2;
-  }
 }
 
 @media (min-width: 992px) and (max-width: 1199px) {
